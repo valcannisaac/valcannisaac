@@ -4,7 +4,7 @@ Sou Isaac Rocha, apaixonado por criar soluções inovadoras e elegantes. Meu obj
 
 ### 📫 Como me encontrar
 
-- [LinkedIn][(link para o perfil no LinkedIn)](https://www.linkedin.com/in/isaacgiordani/)
+- [LinkedIn][([link para o perfil no LinkedIn](https://www.linkedin.com/in/isaacgiordani/))]
 - [Email]igiordani@valcann.com.br
 
 ### 👀 Estatísticas do GitHub
